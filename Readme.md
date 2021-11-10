@@ -4,9 +4,10 @@ This template covers the most common needs. It includes
 
 1. A statemachine
 2. A timer wrapper
-3. A classes wrapper
+3. A class wrapper
 
-These wrappers are not from myself but from Matthias Richter (MIT License). The full license is in each document and his GitHub-Account is linked here.
+These wrappers are not from myself but from Matthias Richter (MIT License). The full license is in each document and his GitHub-Account is linked here: [vrld - Matthias Richter <img src="https://avatars.githubusercontent.com/u/156469?v=4" width="20" height="20">](https://github.com/vrld). He even has an own website (https://vrld.org)  
+He also has some really cool other tools for lua and love but these three are just the most basic ones you really need to use. 
 
 Furthermore, the template already modularizes utilities like sounds, images and fonts. But also the most common states menu, playing, paused and ended. 
 
