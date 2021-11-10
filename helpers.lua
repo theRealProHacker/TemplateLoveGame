@@ -1,6 +1,6 @@
 -- handy constants
 WHITE = {1,1,1,1}
-BLACK = {0,0,0,0}
+BLACK = {0,0,0,1}
 
 __Description__="this is a collection of often used functions."
 
